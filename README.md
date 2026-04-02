@@ -27,4 +27,4 @@ In this game, the computer randomly selects a number between 1 and 100. The user
 - Improving problem-solving skills
 
 ## 🙌 Author
-- Your Name
+- Sonika
